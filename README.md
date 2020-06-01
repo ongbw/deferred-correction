@@ -7,8 +7,8 @@ importance of deferred correction methods in practice, especially in
 the context of solving initial-value problems. This repository
 contains lightweight, flexible MATLAB software to explore variants of
 deferred correction methods described in the review article: "Deferred
-Correction Methods for Ordinary Differential Equations"
-[preprint](http://mathgeek.us/research/papers/dcrev.pdf)
+Correction Methods for Ordinary Differential Equations". See 
+[preprint](http://mathgeek.us/research/papers/dcrev.pdf).
 
 To generate:
 
