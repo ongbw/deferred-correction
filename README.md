@@ -13,6 +13,6 @@ Correction Methods for Ordinary Differential Equations"
 To generate:
 
 - figures 4.1, 4.2 4.3, 4.6, 4.7, run the script: zadunaisky_test.m
-- figures 4.4, 4.5, 4.8, 4.9, run the script: idc_test_work.m and idc_vector.m
+- figures 4.4, 4.5, 4.8, 4.9, run the script: idc_test_vector.m and idc_test_vector_work.m
 - figure 4.11, run the script: cdc_interpolant/m
 
